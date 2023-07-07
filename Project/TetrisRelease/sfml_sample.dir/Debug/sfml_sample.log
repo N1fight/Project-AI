@@ -1,0 +1,9 @@
+﻿  Building Custom Rule C:/VS/TetrisCMakeRelease/CMakeLists.txt
+  Main.cpp
+C:\VS\TetrisCMakeRelease\Main.cpp : fatal  error C1041: невозможно открыть базу данных программы C:\VS\TetrisRelease\sfml_sample.dir\Debug\vc143.pdb; если несколько файлов CL.EXE осуществляют запись в один и тот же PDB-файл, воспользуйтесь /FS
+  Создание кода...
+  Компиляция...
+  Rand.cpp
+C:\VS\TetrisCMakeRelease\Rand.cpp : fatal  error C1041: невозможно открыть базу данных программы C:\VS\TetrisRelease\sfml_sample.dir\Debug\vc143.pdb; если несколько файлов CL.EXE осуществляют запись в один и тот же PDB-файл, воспользуйтесь /FS
+  Создание кода...
+FileTracker : error FTK1006: не удалось внести запись в файл журнала отслеживания файлов: C:\VS\TetrisRelease\sfml_sample.dir\Debug\sfml_sample.tlog\CL.read.1.tlog. Недостаточно места на диске.

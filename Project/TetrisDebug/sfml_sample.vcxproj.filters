@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\VS\TetrisCMakeDebug\Main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\VS\TetrisCMakeDebug\Rand.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\VS\TetrisCMakeDebug\Header.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\VS\TetrisCMakeDebug\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="C:\VS\TetrisCMakeDebug\images\background.png">
+      <Filter>Resources</Filter>
+    </Image>
+    <Image Include="C:\VS\TetrisCMakeDebug\images\frame.png">
+      <Filter>Resources</Filter>
+    </Image>
+    <Image Include="C:\VS\TetrisCMakeDebug\images\tiles.png">
+      <Filter>Resources</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\VS\TetrisCMakeDebug\sfns-display-bold.ttf" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{A3F94191-3CB0-3D8D-AC9D-94580CBF9098}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resources">
+      <UniqueIdentifier>{2077734F-AA7E-3984-A801-4BF48C28197D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{92F5D5F0-02B8-364A-87C5-78F6936F1595}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

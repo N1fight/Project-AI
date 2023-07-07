@@ -1,0 +1,10 @@
+^C:\VS\TETRISDEBUG\CMAKEFILES\29DBDA061EFBCF87E20B5939203B6F39\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/VS/TetrisCMakeDebug -BC:/VS/TetrisDebug --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/VS/TetrisDebug/sfml_sample.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

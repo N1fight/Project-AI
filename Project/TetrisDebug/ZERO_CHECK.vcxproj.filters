@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\VS\TetrisDebug\CMakeFiles\29dbda061efbcf87e20b5939203b6f39\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{CA4D1C5C-0941-305E-8433-C02284063282}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

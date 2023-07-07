@@ -1,0 +1,3 @@
+C:/VS/TetrisRelease/CMakeFiles/sfml_sample.dir
+C:/VS/TetrisRelease/CMakeFiles/ALL_BUILD.dir
+C:/VS/TetrisRelease/CMakeFiles/ZERO_CHECK.dir
