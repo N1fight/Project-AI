@@ -1,1 +1,5 @@
 ﻿  Checking Build System
+  CMake is re-running because C:/VS/TetrisDebug/CMakeFiles/generate.stamp dependency file is missing.
+CUSTOMBUILD : CMake error : The source directory "C:/VS/TetrisCMakeDebug" does not exist.
+  Specify --help for usage, or press the help button on the CMake GUI.
+D:\Visual Studio Community\Visual Studio\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(247,5): error MSB8066: пользовательская сборка для "C:\VS\TetrisDebug\CMakeFiles\29dbda061efbcf87e20b5939203b6f39\generate.stamp.rule" завершила работу с кодом 1.

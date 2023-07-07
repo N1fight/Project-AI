@@ -1,2 +1,6 @@
-﻿  Main.cpp
-  sfml_sample.vcxproj -> C:\VS\TetrisDebug\Debug\sfml_sample.exe
+﻿D:\Visual Studio Community\Visual Studio\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets(2116,5): warning : The referenced project 'C:\VS\TetrisDebug\ZERO_CHECK.vcxproj' does not exist.
+  Building Custom Rule C:/VS/TetrisCMakeDebug/CMakeLists.txt
+  CMake is re-running because C:/VS/TetrisDebug/CMakeFiles/generate.stamp dependency file is missing.
+CUSTOMBUILD : CMake error : The source directory "C:/VS/TetrisCMakeDebug" does not exist.
+  Specify --help for usage, or press the help button on the CMake GUI.
+D:\Visual Studio Community\Visual Studio\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(247,5): error MSB8066: пользовательская сборка для "C:\VS\TetrisCMakeDebug\CMakeLists.txt" завершила работу с кодом 1.
