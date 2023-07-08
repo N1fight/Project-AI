@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\matve\OneDrive\Рабочий стол\TetrisCMakeDebug\Main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\matve\OneDrive\Рабочий стол\TetrisCMakeDebug\Rand.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\matve\OneDrive\Рабочий стол\TetrisCMakeDebug\Header.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\matve\OneDrive\Рабочий стол\TetrisCMakeDebug\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="C:\Users\matve\OneDrive\Рабочий стол\TetrisCMakeDebug\images\background.png">
+      <Filter>Resources</Filter>
+    </Image>
+    <Image Include="C:\Users\matve\OneDrive\Рабочий стол\TetrisCMakeDebug\images\frame.png">
+      <Filter>Resources</Filter>
+    </Image>
+    <Image Include="C:\Users\matve\OneDrive\Рабочий стол\TetrisCMakeDebug\images\tiles.png">
+      <Filter>Resources</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\matve\OneDrive\Рабочий стол\TetrisCMakeDebug\sfns-display-bold.ttf" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{38AB7196-E3F3-36C7-A29E-1BB7A935D7C3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resources">
+      <UniqueIdentifier>{1B9CA532-A8ED-3745-95A5-E78AA3A9B748}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{86E2C0B3-69EE-369F-B3C7-EC734F87ABEB}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

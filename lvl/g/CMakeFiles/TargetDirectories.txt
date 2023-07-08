@@ -1,0 +1,3 @@
+C:/Users/matve/OneDrive/Рабочий стол/g/CMakeFiles/sfml_sample.dir
+C:/Users/matve/OneDrive/Рабочий стол/g/CMakeFiles/ALL_BUILD.dir
+C:/Users/matve/OneDrive/Рабочий стол/g/CMakeFiles/ZERO_CHECK.dir
